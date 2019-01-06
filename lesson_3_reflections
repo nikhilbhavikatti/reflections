@@ -6,5 +6,12 @@ Whenever I would like to show my work to others and contribute my work to public
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    When we change something in the repository in GitHub its not updated in the
-    our workspace on the machine so we need to pull changes to our workspace.
+When we change something in the repository in GitHub its not updated in the our
+workspace on the machine so we need to pull changes to our workspace.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+forks are used to copy the repositories on GitHub. Clones are used to copy the
+repositories from Github to our workspace. branches are used to create a new
+branch in the same repository.
